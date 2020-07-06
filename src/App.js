@@ -1,8 +1,9 @@
 import React from 'react';
+import PiggyBank from './PiggyBank';
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    <PiggyBank />
   );
 }
 
